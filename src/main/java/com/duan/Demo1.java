@@ -8,4 +8,8 @@ public class Demo1 {
     public String toString() {
         return super.toString();
     }
+
+    public static void main(String[] args) {
+        System.out.println("分支操作");
+    }
 }
